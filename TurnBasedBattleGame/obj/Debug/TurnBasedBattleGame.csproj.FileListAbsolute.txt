@@ -1,0 +1,7 @@
+F:\Work\rpa\cSharp\smallOnlineOOP\TurnBasedBattleGame\TurnBasedBattleGame\bin\Debug\TurnBasedBattleGame.exe.config
+F:\Work\rpa\cSharp\smallOnlineOOP\TurnBasedBattleGame\TurnBasedBattleGame\bin\Debug\TurnBasedBattleGame.exe
+F:\Work\rpa\cSharp\smallOnlineOOP\TurnBasedBattleGame\TurnBasedBattleGame\bin\Debug\TurnBasedBattleGame.pdb
+F:\Work\rpa\cSharp\smallOnlineOOP\TurnBasedBattleGame\TurnBasedBattleGame\obj\Debug\TurnBasedBattleGame.csproj.AssemblyReference.cache
+F:\Work\rpa\cSharp\smallOnlineOOP\TurnBasedBattleGame\TurnBasedBattleGame\obj\Debug\TurnBasedBattleGame.csproj.CoreCompileInputs.cache
+F:\Work\rpa\cSharp\smallOnlineOOP\TurnBasedBattleGame\TurnBasedBattleGame\obj\Debug\TurnBasedBattleGame.exe
+F:\Work\rpa\cSharp\smallOnlineOOP\TurnBasedBattleGame\TurnBasedBattleGame\obj\Debug\TurnBasedBattleGame.pdb

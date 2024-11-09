@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "F:\\Work\\rpa\\cSharp\\smallOnlineOOP\\TurnBasedBattleGame\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AA57A12C-F5C7-48ED-B730-9DEEC6EEB459}|TurnBasedBattleGame\\TurnBasedBattleGame.csproj|f:\\work\\rpa\\csharp\\smallonlineoop\\turnbasedbattlegame\\turnbasedbattlegame\\unit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AA57A12C-F5C7-48ED-B730-9DEEC6EEB459}|TurnBasedBattleGame\\TurnBasedBattleGame.csproj|solutionrelative:turnbasedbattlegame\\unit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AA57A12C-F5C7-48ED-B730-9DEEC6EEB459}|TurnBasedBattleGame\\TurnBasedBattleGame.csproj|F:\\Work\\rpa\\cSharp\\smallOnlineOOP\\TurnBasedBattleGame\\turnbasedbattlegame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA57A12C-F5C7-48ED-B730-9DEEC6EEB459}|TurnBasedBattleGame\\TurnBasedBattleGame.csproj|solutionrelative:turnbasedbattlegame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AA57A12C-F5C7-48ED-B730-9DEEC6EEB459}|TurnBasedBattleGame\\TurnBasedBattleGame.csproj|f:\\work\\rpa\\csharp\\smallonlineoop\\turnbasedbattlegame\\turnbasedbattlegame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AA57A12C-F5C7-48ED-B730-9DEEC6EEB459}|TurnBasedBattleGame\\TurnBasedBattleGame.csproj|solutionrelative:turnbasedbattlegame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AA57A12C-F5C7-48ED-B730-9DEEC6EEB459}|TurnBasedBattleGame\\TurnBasedBattleGame.csproj|f:\\work\\rpa\\csharp\\smallonlineoop\\turnbasedbattlegame\\turnbasedbattlegame\\unit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA57A12C-F5C7-48ED-B730-9DEEC6EEB459}|TurnBasedBattleGame\\TurnBasedBattleGame.csproj|solutionrelative:turnbasedbattlegame\\unit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,26 +42,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Unit.cs",
               "DocumentMoniker": "F:\\Work\\rpa\\cSharp\\smallOnlineOOP\\TurnBasedBattleGame\\TurnBasedBattleGame\\Unit.cs",
               "RelativeDocumentMoniker": "TurnBasedBattleGame\\Unit.cs",
               "ToolTip": "F:\\Work\\rpa\\cSharp\\smallOnlineOOP\\TurnBasedBattleGame\\TurnBasedBattleGame\\Unit.cs",
               "RelativeToolTip": "TurnBasedBattleGame\\Unit.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAcwDQAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-03T14:10:24.124Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "F:\\Work\\rpa\\cSharp\\smallOnlineOOP\\TurnBasedBattleGame\\TurnBasedBattleGame\\Program.cs",
               "RelativeDocumentMoniker": "TurnBasedBattleGame\\Program.cs",
               "ToolTip": "F:\\Work\\rpa\\cSharp\\smallOnlineOOP\\TurnBasedBattleGame\\TurnBasedBattleGame\\Program.cs",
               "RelativeToolTip": "TurnBasedBattleGame\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-03T14:10:23.252Z",
               "EditorCaption": ""

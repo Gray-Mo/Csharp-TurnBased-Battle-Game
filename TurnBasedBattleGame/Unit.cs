@@ -54,7 +54,7 @@ namespace TurnBasedBattleGame
             rng = rng / 2 + 0.75f;
             int heal = (int)(rng * healPower);
             currentHp = heal + currentHp > maxHp ? maxHp : currentHp + heal;
-            Console.WriteLine(UnitName + " heals " + heal);
+            Console.WriteLine(UnitName + " heals " + heal + " points.");
         }
     }
 }
